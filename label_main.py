@@ -635,7 +635,7 @@ class ImageLabeler:
         text_widget.config(state='disabled')  # Make the text read-only
 
     def show_about(self) -> None:
-        messagebox.showinfo("About", "Image Labeler\nVersion 1.0\n\nBy, Pronay Sarkar\nhttps://github.com/rainfall64")
+        messagebox.showinfo("About", "Image Labeler\nVersion 1.0\n\nBy, Pronay Sarkar\nhttps://github.com/rain194")
 
 if __name__ == '__main__':
     root = tk.Tk()
